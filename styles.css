@@ -1,0 +1,29 @@
+html {
+    text-align: center;
+    font-family: 'Inter';
+    background-color: blanchedalmond;
+    color: black;
+}
+
+h1 {
+   font-size: 5em;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+ul li {
+    margin: 50px;
+    display: inline;
+    border-style: double;
+    border-color: black;
+    padding: 10px;
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0,0,0);
+}
